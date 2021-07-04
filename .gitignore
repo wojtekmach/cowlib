@@ -12,3 +12,4 @@ examples/*/ebin
 logs
 relx
 test/*.beam
+_build
